@@ -1,0 +1,8 @@
+Name: afsah
+Address: h12
+Age: 25
+CGPA: 3.9
+Name: anoosha
+Address: dha
+Age: 80
+CGPA: 3.8
